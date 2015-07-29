@@ -1,9 +1,4 @@
----
-language: none
-tags: javascript, libraries, jquery, data, val, input, validation, regex
-type: resources
-resources: 4
----
+
 
 ## Resources
 
