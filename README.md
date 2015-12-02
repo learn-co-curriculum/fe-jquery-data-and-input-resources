@@ -6,3 +6,4 @@
 - [Slides 18 - Validation & Regular Expressions](https://docs.google.com/presentation/d/13w3gW7mH1bnvbEetjMf-JYeP2UUzgv2N-tQm-Hn8Zuo/edit?usp=sharing)
 - [Chrome Dev Tools - Debugging JavaScript](https://developer.chrome.com/devtools/docs/javascript-debugging)
 - [CodeSchool - Discover Chrome Dev Tools Tutorial](http://discover-devtools.codeschool.com/)
+<a href='https://learn.co/lessons/fe-jquery-data-and-input-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
